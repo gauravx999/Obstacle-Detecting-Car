@@ -1,8 +1,7 @@
-
+# Obstacle-Detecting-Car
  🚗 Project Overview
 This project is an Arduino-based obstacle-detecting car that uses sensors to detect and avoid obstacles in its path. The car is designed to demonstrate basic robotics and sensor integration, making it an excellent introduction to embedded systems and IoT projects.
 
-# Obstacle-Detecting-Car
 ![WhatsApp Image 2025-01-08 at 4 59 45 PM](https://github.com/user-attachments/assets/b19a6eab-ebbe-425b-a8df-8470c42dd098)
 
 
